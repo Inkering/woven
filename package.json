@@ -1,0 +1,18 @@
+{
+  "name": "woven",
+  "scripts": {
+    "start": "parcel serve ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "dependencies": {
+    "medium-zoom": "^1.0.6",
+    "tachyons": "4.12.0",
+    "tachyons-line-height": "^3.0.7",
+    "tachyons-spacing": "^6.0.5",
+    "tachyons-type-scale": "^6.1.1",
+    "tachyons-typography": "^3.0.5"
+  },
+  "devDependencies": {
+    "parcel": "next"
+  }
+}

@@ -1,0 +1,11 @@
+@import url('./css/tachyons.css');
+@import url('./css/tachyons-line-height.css');
+@import url('./css/tachyons-type-scale.css');
+@import url('./css/tachyons-typography.css');
+
+.lusitana {
+    font-family: 'Lusitana', serif;
+}
+
+
+
