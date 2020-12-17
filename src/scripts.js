@@ -1,4 +1,5 @@
 import mediumZoom from 'medium-zoom'
 
-mediumZoom('img')
-
+mediumZoom('img', {
+    margin: 24,
+  })
